@@ -1,0 +1,15 @@
+{
+  "packageVersion": 1,
+  "runtime": "http-v2",
+  "entry": "uploader.json",
+  "id": "io.github.alnitak44.imgloc",
+  "name": "ImgLoc 图床",
+  "version": "1.1.0",
+  "description": "ImgLoc 图片上传，自动获取刷新上传凭证。",
+  "author": "Alnitak44",
+  "homepage": "https://imgloc.com/",
+  "icon": "assets/icon.svg",
+  "mark": "IL",
+  "color": "#6377E8",
+  "repository": "https://github.com/Alnitak44/picora-plugins/tree/main/plugins/imgloc"
+}
